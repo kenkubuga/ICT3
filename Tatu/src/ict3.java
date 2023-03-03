@@ -6,6 +6,7 @@ public class ict3 {
 		System.out.println(10);
 		System.out.println(10+1);
 		System.out.println("ten");
+		System.out.println("ten");
 		
 	}
 
